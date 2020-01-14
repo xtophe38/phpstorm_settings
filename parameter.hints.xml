@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="PHP">
         <added pattern="\DBObject.Set(sAttCode,value)" />
+        <added pattern="\DBObject.Get(sAttCode)" />
       </blacklist>
     </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
