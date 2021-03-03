@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../datamodels/2.x/teemip-zone-mgmt'" />
-    <option name="defaultScopeName" value="Directory '.../datamodels/2.x/teemip-zone-mgmt'" />
+    <option name="customScope" value="Directory '.../datamodels/2.x/teemip-core-ip-mgmt/teemip-network-mgmt'" />
+    <option name="defaultScopeName" value="Directory '.../datamodels/2.x/teemip-core-ip-mgmt/teemip-network-mgmt'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../datamodels/2.x/teemip-zone-mgmt'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../datamodels/2.x/teemip-core-ip-mgmt/teemip-network-mgmt'" />
   </component>
 </application>
