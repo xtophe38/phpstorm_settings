@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../datamodels/2.x/teemip-request-mgmt/teemip-request-mgmt/src/Model'" />
-    <option name="defaultScopeName" value="Directory '.../datamodels/2.x/teemip-request-mgmt/teemip-request-mgmt/src/Model'" />
+    <option name="customScope" value="File '.../datamodels/2.x/teemip-request-mgmt/teemip-request-mgmt/src/Hook/IPRequestPlugIn.php'" />
+    <option name="defaultScopeName" value="File '.../datamodels/2.x/teemip-request-mgmt/teemip-request-mgmt/src/Hook/IPRequestPlugIn.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../datamodels/2.x/teemip-request-mgmt/teemip-request-mgmt/src/Model'" />
+    <option name="SEARCH_SCOPE" value="File '.../datamodels/2.x/teemip-request-mgmt/teemip-request-mgmt/src/Hook/IPRequestPlugIn.php'" />
   </component>
 </application>
