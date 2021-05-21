@@ -1,10 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="c78f94b2-db9d-4771-aadb-df5538285ddb" name="PHP 7" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
@@ -13,8 +7,8 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.2" path_separator=":" version="7.2.24-0ubuntu0.18.04.1">
-          <additional_php_ini>/etc/php/7.2/cli/conf.d/10-mysqlnd.ini, /etc/php/7.2/cli/conf.d/10-opcache.ini, /etc/php/7.2/cli/conf.d/10-pdo.ini, /etc/php/7.2/cli/conf.d/15-xml.ini, /etc/php/7.2/cli/conf.d/20-apcu.ini, /etc/php/7.2/cli/conf.d/20-bz2.ini, /etc/php/7.2/cli/conf.d/20-calendar.ini, /etc/php/7.2/cli/conf.d/20-ctype.ini, /etc/php/7.2/cli/conf.d/20-curl.ini, /etc/php/7.2/cli/conf.d/20-dom.ini, /etc/php/7.2/cli/conf.d/20-exif.ini, /etc/php/7.2/cli/conf.d/20-fileinfo.ini, /etc/php/7.2/cli/conf.d/20-ftp.ini, /etc/php/7.2/cli/conf.d/20-gd.ini, /etc/php/7.2/cli/conf.d/20-gettext.ini, /etc/php/7.2/cli/conf.d/20-iconv.ini, /etc/php/7.2/cli/conf.d/20-imap.ini, /etc/php/7.2/cli/conf.d/20-json.ini, /etc/php/7.2/cli/conf.d/20-ldap.ini, /etc/php/7.2/cli/conf.d/20-mbstring.ini, /etc/php/7.2/cli/conf.d/20-mysqli.ini, /etc/php/7.2/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.2/cli/conf.d/20-phar.ini, /etc/php/7.2/cli/conf.d/20-posix.ini, /etc/php/7.2/cli/conf.d/20-readline.ini, /etc/php/7.2/cli/conf.d/20-shmop.ini, /etc/php/7.2/cli/conf.d/20-simplexml.ini, /etc/php/7.2/cli/conf.d/20-soap.ini, /etc/php/7.2/cli/conf.d/20-sockets.ini, /etc/php/7.2/cli/conf.d/20-sysvmsg.ini, /etc/php/7.2/cli/conf.d/20-sysvsem.ini, /etc/php/7.2/cli/conf.d/20-sysvshm.ini, /etc/php/7.2/cli/conf.d/20-tokenizer.ini, /etc/php/7.2/cli/conf.d/20-wddx.ini, /etc/php/7.2/cli/conf.d/20-xdebug.ini, /etc/php/7.2/cli/conf.d/20-xmlreader.ini, /etc/php/7.2/cli/conf.d/20-xmlwriter.ini, /etc/php/7.2/cli/conf.d/20-xsl.ini, /etc/php/7.2/cli/conf.d/20-zip.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.2" path_separator=":" version="7.2.24-0ubuntu0.18.04.7">
+          <additional_php_ini>/etc/php/7.2/cli/conf.d/10-mysqlnd.ini, /etc/php/7.2/cli/conf.d/10-opcache.ini, /etc/php/7.2/cli/conf.d/10-pdo.ini, /etc/php/7.2/cli/conf.d/15-xml.ini, /etc/php/7.2/cli/conf.d/20-apcu.ini, /etc/php/7.2/cli/conf.d/20-bz2.ini, /etc/php/7.2/cli/conf.d/20-calendar.ini, /etc/php/7.2/cli/conf.d/20-ctype.ini, /etc/php/7.2/cli/conf.d/20-curl.ini, /etc/php/7.2/cli/conf.d/20-dom.ini, /etc/php/7.2/cli/conf.d/20-exif.ini, /etc/php/7.2/cli/conf.d/20-fileinfo.ini, /etc/php/7.2/cli/conf.d/20-ftp.ini, /etc/php/7.2/cli/conf.d/20-gd.ini, /etc/php/7.2/cli/conf.d/20-gettext.ini, /etc/php/7.2/cli/conf.d/20-gmp.ini, /etc/php/7.2/cli/conf.d/20-iconv.ini, /etc/php/7.2/cli/conf.d/20-imap.ini, /etc/php/7.2/cli/conf.d/20-json.ini, /etc/php/7.2/cli/conf.d/20-ldap.ini, /etc/php/7.2/cli/conf.d/20-mbstring.ini, /etc/php/7.2/cli/conf.d/20-mysqli.ini, /etc/php/7.2/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.2/cli/conf.d/20-phar.ini, /etc/php/7.2/cli/conf.d/20-posix.ini, /etc/php/7.2/cli/conf.d/20-readline.ini, /etc/php/7.2/cli/conf.d/20-shmop.ini, /etc/php/7.2/cli/conf.d/20-simplexml.ini, /etc/php/7.2/cli/conf.d/20-snmp.ini, /etc/php/7.2/cli/conf.d/20-soap.ini, /etc/php/7.2/cli/conf.d/20-sockets.ini, /etc/php/7.2/cli/conf.d/20-sysvmsg.ini, /etc/php/7.2/cli/conf.d/20-sysvsem.ini, /etc/php/7.2/cli/conf.d/20-sysvshm.ini, /etc/php/7.2/cli/conf.d/20-tokenizer.ini, /etc/php/7.2/cli/conf.d/20-wddx.ini, /etc/php/7.2/cli/conf.d/20-xdebug.ini, /etc/php/7.2/cli/conf.d/20-xmlreader.ini, /etc/php/7.2/cli/conf.d/20-xmlwriter.ini, /etc/php/7.2/cli/conf.d/20-xsl.ini, /etc/php/7.2/cli/conf.d/20-zip.ini</additional_php_ini>
           <configuration_file>/etc/php/7.2/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/share/php" />
@@ -45,6 +39,7 @@
             <extension name="ftp" />
             <extension name="gd" />
             <extension name="gettext" />
+            <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="imap" />
@@ -62,6 +57,7 @@
             <extension name="readline" />
             <extension name="session" />
             <extension name="shmop" />
+            <extension name="snmp" />
             <extension name="soap" />
             <extension name="sockets" />
             <extension name="sodium" />
