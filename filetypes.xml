@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="toolkit_cleanup" type="PLAIN_TEXT" />
-      <mapping pattern="MACAddressLookup.html.twig" type="Twig" />
       <mapping pattern="cur_lifecyle" type="XML" />
       <mapping pattern="pro_lifecycle" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -12,6 +11,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="MACAddressLookup.html.twig" approved="true" type="Twig" />
     </extensionMap>
   </component>
 </application>
