@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="toolkit_cleanup" type="PLAIN_TEXT" />
+      <mapping pattern="*.html.twig" type="Twig" />
       <mapping pattern="cur_lifecyle" type="XML" />
       <mapping pattern="pro_lifecycle" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
