@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="toolkit_cleanup" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="cur_lifecyle" type="XML" />
       <mapping pattern="pro_lifecycle" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
