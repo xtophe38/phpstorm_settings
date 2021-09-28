@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="TelephonyIntegrationApplication" type="PHP" />
       <mapping pattern="toolkit_cleanup" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="cur_lifecyle" type="XML" />
