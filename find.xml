@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '…/collectors/AzureJsonCollector.class.inc.php'" />
     <option name="defaultScopeName" value="File '…/collectors/AzureJsonCollector.class.inc.php'" />
+    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '…/collectors/AzureJsonCollector.class.inc.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
