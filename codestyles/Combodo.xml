@@ -96,6 +96,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
+    <option name="RIGHT_MARGIN" value="300" />
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
