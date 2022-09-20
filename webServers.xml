@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9eae1fe3-9975-4a9b-b696-585147b5c669" name="3.0.2 com" url="http://15.0.0.14/teemip/dev/3.0.2/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
