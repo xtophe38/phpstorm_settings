@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="c78f94b2-db9d-4771-aadb-df5538285ddb" name="PHP 7.4" home="/usr/bin/php7.4" debugger_id="php.debugger.XDebug" custom_ini="/etc/php/7.4/mods-available/xdebug.ini" />
+      <interpreter id="c78f94b2-db9d-4771-aadb-df5538285ddb" name="PHP 7.4" home="/usr/bin/php7.4" debugger_id="php.debugger.XDebug" custom_ini="/etc/php/7.4/cli/php.ini" />
       <interpreter id="916c1559-407f-41e2-941a-68798501a8cf" name="PHP 8.0" home="/usr/bin/php8.0" debugger_id="php.debugger.XDebug" custom_ini="/etc/php/8.0/cli/php.ini" />
     </interpreters>
   </component>
